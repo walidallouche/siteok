@@ -1,0 +1,32 @@
+img {
+    display: block;
+    margin: auto;
+    width: 400px;
+}
+body {
+    background-image: url(Images/arriere_plan_tintin.png);
+   }
+#parg1
+{
+font-family: 'Trebuchet MS';
+font-style: italic;
+font-size: large;
+}
+body
+{
+    color:white
+}
+ja
+{
+color:gold;
+font-style: italic;
+}
+ja2
+{
+color:gold;
+font-weight: bold;
+}
+#parg2
+{
+    text-align: center;
+}
