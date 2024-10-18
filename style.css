@@ -1,32 +1,32 @@
-img {
-    display: block;
-    margin: auto;
-    width: 400px;
-}
-body {
-    background-image: url(Images/arriere_plan_tintin.png);
-   }
-#parg1
-{
-font-family: 'Trebuchet MS';
-font-style: italic;
-font-size: large;
-}
 body
-{
-    color:white
+{background-image:url(img/arriere\ plan\ tintin.png);
+
+img{
+    display: block;
+    margin:auto
 }
-ja
-{
-color:gold;
-font-style: italic;
+
+#para1
+{font-size:xx-large;
+ font-style: italic;
+ color: white;
 }
-ja2
-{
-color:gold;
-font-weight: bold;
+
+#para2
+{font-size: x-large;
+font-family:'Times New Roman', Times, serif;
+color: white;
 }
-#parg2
-{
-    text-align: center;
+}
+
+#para3
+{font-size: xx-large;
+font-family: cursive;
+color: white;
+}
+
+#para4
+{font-size:medium;
+color: white;
+text-align: center;
 }
